@@ -9,8 +9,8 @@ For solver to work properly, the text file must have the puzzle formated in the 
 
 Here numbers represent already filled positions and '.' represent empty slots. First 9 characters represent first row and next 9 characters represent second row and so forth.
 ## Requirements
--Python
+**Python
 
--numpy
+**numpy
 
--matplotlib
+**matplotlib
